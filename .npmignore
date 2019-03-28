@@ -7,7 +7,7 @@
 # development
 .prettierrc
 .prettierignore
-.stylintrc.json
+.stylelintrc.json
 README.md
 
 # misc
