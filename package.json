@@ -1,0 +1,25 @@
+{
+  "name": "backline-normalize",
+  "version": "1.0.0",
+  "description": "An opinionated CSS reset",
+  "author": "Jack Brewer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clocklimited/backline-normalize"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "stylelint \"src/**/*.scss\""
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4",
+    "stylelint": "^9.10.1",
+    "stylelint-config-prettier": "^5.0.0",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-scss": "^3.5.4"
+  }
+}
