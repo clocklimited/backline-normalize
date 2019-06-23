@@ -1,5 +1,7 @@
 # Backline Normalize
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/backline-normalize.svg)](https://greenkeeper.io/)
+
 Based on [normalize.css](http://necolas.github.io/normalize.css/), but with some more opinionated additions.
 
 ## Installation
